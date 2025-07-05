@@ -11,8 +11,8 @@ and are managed through Unity’s secure services.
 The app uses third-party services that may collect user data independently. These include:
 - Unity (Authentication, Ads, Analytics): [https://unity.com/legal/game-player-and-app-
 user-privacy-policy](https://unity.com/legal/privacy-policy)
-- IronSource (Ad Mediation): https://developers.is.com/ironsource-mobile/air/ironsource-
-mobile-privacy-policy/
+- IronSource (Ad Mediation): [https://developers.is.com/ironsource-mobile/air/ironsource-
+mobile-privacy-policy/](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
 These services may collect:
 - Device information
 - Advertising identifiers
