@@ -9,8 +9,8 @@ We do not collect any other personal information directly. Passwords are not sto
 and are managed through Unity’s secure services.
 2. Third-Party Services
 The app uses third-party services that may collect user data independently. These include:
-- Unity (Authentication, Ads, Analytics): https://unity.com/legal/game-player-and-app-
-user-privacy-policy
+- Unity (Authentication, Ads, Analytics): [https://unity.com/legal/game-player-and-app-
+user-privacy-policy](https://unity.com/legal/privacy-policy)
 - IronSource (Ad Mediation): https://developers.is.com/ironsource-mobile/air/ironsource-
 mobile-privacy-policy/
 These services may collect:
