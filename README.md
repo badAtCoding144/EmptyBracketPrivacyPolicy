@@ -38,7 +38,7 @@ For such requests, please refer to the privacy policies of Unity and IronSource.
 7. Contact
 If you have any questions, contact:
 EmptyBracket
-Email: privacy@emptybracket.com
+Email: addie.keating@gmail.com
 8. Changes
 We may update this Privacy Policy periodically. The date of the latest revision will always
 be shown at the top.
