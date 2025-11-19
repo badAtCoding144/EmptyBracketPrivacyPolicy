@@ -20,7 +20,7 @@ These services may collect:
 - Location (approximate)
 - Ad interaction data
 We do not control or assume responsibility for how these third parties manage user data.
-Please refer to their respective privacy policies linked above.
+Please refer to their respective privacy policies linked above for more information.
 3. Children’s Privacy
 The app is intended for a general audience and may be used by children under 13. We do
 not knowingly collect personal data from children directly.
@@ -43,4 +43,3 @@ Email: addie.keating@gmail.com
 We may update this Privacy Policy periodically. The date of the latest revision will always
 be shown at the top.
 By using DriftDuelers, you agree to this policy.
-
