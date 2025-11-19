@@ -1,5 +1,5 @@
 Privacy Policy for DriftDuelers
-Last Updated: July 5, 2025
+Last Updated: November 19, 2025
 This Privacy Policy describes how EmptyBracket ("we", "us", or "our") handles information
 collected through the DriftDuelers mobile app.
 1. Information We Collect
